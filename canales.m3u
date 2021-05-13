@@ -19,7 +19,7 @@ https://14943.live.streamtheworld.com/XETFM_SC
 #EXTINF:0 tvg-logo="", LA LUPE 105.3
 https://16693.live.streamtheworld.com/XHPAGFM_SC
 
-*** NACIONALES ***
+
 #EXTINF:-1, ONCE NINOS (CLASES)
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA 7.3 (CLASES)
@@ -98,7 +98,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2882&p=3&k=srregio&f=.m3u8
 
 
 
-*** INFANTILES ***
+
 #EXTINF:-1, TOONCAST
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=108&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISCOVERY KIDS
@@ -130,7 +130,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2373&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, BIT ME  
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
-*** CINE ***
+
 #EXTINF:-1, A3CINE 
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TBS SD  
@@ -188,7 +188,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CINEMA 
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 
-*** ENTRETENIMIENTO ***
+
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=85&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FOX  
@@ -254,7 +254,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=1842&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, A3SERIES
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
-*** DEPORTES ***
+
 #EXTINF:-1, ESPN + 
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ESPN 
@@ -290,7 +290,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FUEL TV HD 
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
 
-*** CULTURALES ***
+
 #EXTINF:-1, DISCOVERY ID
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2376&p=3&k=srregio&f=.m3u8  
  #EXTINF:-1, GARAGE TV 
@@ -330,7 +330,7 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2379&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CURIOSITY STREAM
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
 
-*** MUSICA ***
+
 #EXTINF:-1, MTV LIVE
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=211&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MTV
@@ -353,7 +353,6 @@ http://ipeteve.com/php/SR_REGIO_690/tp.php?c=223&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
 
-*** NOTICIAS ***
 #EXTINF:-1, FOROTV HD
 http://ipeteve.com/php/SR_REGIO_690/tp.php?c=4&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOROTV SD
