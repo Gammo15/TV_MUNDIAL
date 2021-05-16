@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", OJO NO PEDIMOS 25 PESOS HAY UN FACEBOOK FALSO
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="http:///www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 15.11.2020
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http:///paypal.me/SrRegio
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @Oficial.SrRegio
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://regioflix.club/apoyo.mp4
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://regioflix.club/apoyo.mp4
 
 #EXTINF:-1, DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
@@ -415,18 +401,6 @@ http://ipeteve.com/php/SR_REGIO_546/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FRANCE 24
 http://ipeteve.com/php/SR_REGIO_546/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1 tvg-logo="http://srregio.net/img/img.php" .jpg", SRREGIO.NET
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://srregio.net/web.php
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" ,REGIO CHANNEL
-http://ipeteve.com/php/th.php?channel=srregio&f.m3u8
 
 #EXTINF:-1  group-title="Lista TV", DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
